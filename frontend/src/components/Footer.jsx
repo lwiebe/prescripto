@@ -27,8 +27,8 @@ const Footer = () => {
         <div>
             <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
             <ul className='flex flex-col gap-2 text-gray-600'>
-                <li>+1-212-456-7890</li>
-                <li>greatstackdev@gmail.com</li>
+                <li>+49 176 23711674</li>
+                <li><a href="mailto:lnwiebe05@gmail.com">lnwiebe05@gmail.com</a></li>
             </ul>
         </div>
       </div>
@@ -36,7 +36,7 @@ const Footer = () => {
       {/* - - - - - - Copyright Text - - - - - - */}
       <div>
         <hr />
-        <p className='py-5 text-sm text-center'>Copyright © 2024 GreatStack - All Right Reserved.</p>
+        <p className='py-5 text-sm text-center'>Copyright © 2024 Lian Wiebe - All Right Reserved.</p>
       </div>
     </div>
   )
